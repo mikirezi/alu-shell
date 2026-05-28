@@ -1,1 +1,1 @@
-alu-shell
+ALU Shell project - basics scripts
