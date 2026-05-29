@@ -1,1 +1,1 @@
-This repository contains shell scripting projects.
+ALU Shell project - basics scripts
