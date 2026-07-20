@@ -1,2 +1,4 @@
-#!/bin/bash
-ps auxf
+#!/usr/bin/env bash
+# Displays all running processes in a user-oriented format with hierarchy
+
+ps -ef --forest
