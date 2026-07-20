@@ -1,2 +1,4 @@
-#!/bin/bash
-pgrep -a bash
+#!/usr/bin/env bash
+# Displays the PID and process name of processes containing "bash"
+
+pgrep -fl bash
